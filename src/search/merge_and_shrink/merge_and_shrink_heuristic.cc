@@ -25,6 +25,7 @@
 #include <string>
 #include <utility>
 #include <vector>
+#include <cmath>
 
 using namespace std;
 using utils::ExitCode;
